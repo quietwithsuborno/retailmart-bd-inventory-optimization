@@ -1,8 +1,9 @@
-# Inventory Optimization & Dead Stock Detection
-### Business Insight Report — RetailMart BD
+# Business Insight Report — RetailMart BD
 
 **Analysis Period:** January 2023 – December 2024
+
 **Tools Used:** Excel, SQL Server (SSMS), Power BI
+
 **Prepared by:** Suborno
 
 ---
